@@ -1,9 +1,15 @@
-# SK Automobile Parts — Django E-Commerce Platform
+**SK Automobile Parts — Django E-Commerce & Live Delivery Tracking**
 
-A full-stack motorcycle spare parts e-commerce application built using Python, Django, HTML, CSS, JavaScript, and database integration.
+**Technologies:** Python, Django, HTML, CSS, JavaScript, SQL, Django ORM, Leaflet, Git, GitHub, Render
+
+- Developed a Django-based e-commerce application for browsing motorcycle spare parts, managing shopping carts, checkout, and order tracking.
+- Implemented backend functionality using Django views, models, authentication, and ORM-based database operations.
+- Integrated browser GPS location updates with Django endpoints and a Leaflet map to display delivery personnel's latest reported location during active deliveries.
+- Built an administrative dashboard for managing products, inventory, orders, and delivery assignments.
+- Deployed the application on Render and maintained the project using Git and GitHub.
 
 **Live Demo:** https://sk-automobile-parts.onrender.com  
-**GitHub Repository:** https://github.com/gongatinaresh/SK-Automobile-parts
+**GitHub:** https://github.com/gongatinaresh/SK-Automobile-parts
 
 ## Project Overview
 
